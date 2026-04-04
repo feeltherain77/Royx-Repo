@@ -1,8 +1,11 @@
 [
   {
     "name": "Wibu47",
-    "url": "https://raw.githubusercontent.com/Ducmanhontop/Royx-Repo/main/wibu47.js",
+    "description": "Nguồn Anime hừng hực công lực",
     "authors": ["Drick"],
-    "version": 1
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Ducmanhontop/Royx-Repo/main/wibu47.js",
+    "iconUrl": "https://wibu47.vip/favicon.ico",
+    "tvTypes": ["Anime"]
   }
 ]
