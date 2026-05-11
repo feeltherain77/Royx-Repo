@@ -4,9 +4,11 @@
     "url": "https://raw.githubusercontent.com/feeltherain77/Royx-Repo/main/Animevietsubtv.js",
     "authors": ["Mạnh DZ"],
     "version": 1,
-    "description": "Repo Royx - AnimeVietsub By Mạnh",
+    "description": "Bản phá giáp Royx Style",
     "iconUrl": "https://animevietsubtv.com/favicon.ico",
     "type": "tv",
-    "status": 1
+    "status": 1,
+    "hash": "123456",
+    "size": 100
   }
 ]
