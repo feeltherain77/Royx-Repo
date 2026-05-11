@@ -1,9 +1,12 @@
-{
-  "name": "Royx Repo",
-  "description": "For Wibu",
-  "iconUrl": "https://b.upanh.tv/FGWAMin.jpg",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/feeltherain77/Royx-Repo/main/wibu_list.json"
-  ]
-}
+[
+  {
+    "name": "AnimeVietsub",
+    "url": "https://raw.githubusercontent.com/feeltherain77/Royx-Repo/main/Animevietsubtv.js",
+    "authors": ["Mạnh DZ"],
+    "version": 1,
+    "description": "Repo Royx - AnimeVietsub By Mạnh",
+    "iconUrl": "https://animevietsubtv.com/favicon.ico",
+    "type": "tv",
+    "status": 1
+  }
+]
